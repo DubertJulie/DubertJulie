@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World 👋
+
+Comment ça va ? 
+Ici, on essaie d'apprendre le code petit à petit. 
 
 <!--
 **DubertJulie/DubertJulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

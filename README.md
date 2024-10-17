@@ -1,7 +1,11 @@
 ## Hello World 👋
 
-Comment ça va ? 
-Ici, on essaie d'apprendre le code petit à petit. 
+Comment ça va ? ✨
+
+Julie, graphiste couteau-suisse se découvre une passion pour le front !
+On essaie d'apprendre le code petit à petit : je travaille actuellement sur des petits projets en HTML/CSS et Javacript (React),
+avec un focus sur l'expérience utilisateur et le design d'interface (déformation professionnelle oblige !). 💃
+
 
 <!--
 **DubertJulie/DubertJulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

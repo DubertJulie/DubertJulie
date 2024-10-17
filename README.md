@@ -1,6 +1,6 @@
-## Hello World 👋
+# Hello World 👋
 
-# Comment ça va ? ✨
+## Comment ça va ? ✨
 
 Julie, graphiste couteau-suisse se découvre une passion pour le front !
 On essaie d'apprendre le code petit à petit : je travaille actuellement sur des petits projets en HTML/CSS et Javacript (React),

@@ -21,7 +21,7 @@
 
 ---
 <br>
-📫 Blablabla
+📫 Contactez-moi sur [Linkedin](https://www.linkedin.com/in/julie-dubert-159208170/) !
 <!--
 **DubertJulie/DubertJulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

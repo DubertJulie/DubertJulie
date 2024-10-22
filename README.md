@@ -14,7 +14,7 @@
 --- 
 
 ### Mes projets en cours
-- [Ma petite carte de visite]() responsive 
+- [Mon CV](https://dubertjulie.github.io/curriculum-vitae/) responsive 
 - Une application web de [révisions]() ✨
 <br><br>
 

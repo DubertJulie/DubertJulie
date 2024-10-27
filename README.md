@@ -3,7 +3,7 @@
 # Hello World <img src="assets/Hi.gif" style="height: 25pt;">
 
 
-🌱 En formation **développeur front-end** au sein de [Simplon-Hdf](github.com/simplon-hdf), je travaille actuellement sur des petits projets en `HTML/CSS` et `Javacript` (React). 
+🌱 En formation **développeur front-end** au sein de Simplon-HdF, je travaille actuellement sur des petits projets en `HTML/CSS` et `Javacript`. 
 
 ⚡Mon objectif est de coder des **trucs utiles** et **beaux** en même temps.
 
@@ -15,7 +15,7 @@
 
 ### Mes projets en cours
 - [Mon CV](https://dubertjulie.github.io/curriculum-vitae/) responsive 
-- Une application web de [révisions]() ✨
+- Une application web de [révisions]() _à venir_ ✨
 <br><br>
 
 ---

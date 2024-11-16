@@ -6,6 +6,7 @@
 🌱 En formation **développeur front-end** au sein de Simplon-HdF, je travaille actuellement sur des petits projets en `HTML/CSS` et `Javacript`. Je découvre aussi la bibliothèque `react.js` !
 
 ⚡Mon objectif est de coder des **trucs utiles** et **beaux** en même temps.
+☁️ Et aussi de terminer The Odin project en 2025. 
 
 💕 Parlez-moi de *plantes vertes*, de *cuisine* ou de *loisirs créatifs* !
 

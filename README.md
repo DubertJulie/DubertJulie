@@ -3,7 +3,8 @@
 # Hello World <img src="assets/Hi.gif" style="height: 25pt;">
 
 
-🌱 En formation **développeur front-end** au sein de Simplon-HdF, je travaille actuellement sur des petits projets en `HTML/CSS` et `Javacript`. Je découvre aussi la bibliothèque `react.js` !
+🌱 Sortie d'un module de spécialisation **développeur front-end** au sein de Simplon-HdF, je commence une formation en environnement **.NET** en décembre 2024 !
+Je travaille sur des petits projets en `HTML/CSS`, `Javacript` avec la bibliothèque `react.js` et j'apprends `C#` lentement mais sûrement !
 
 ⚡Mon objectif est de coder des **trucs utiles** et **beaux** en même temps.
 ☁️ Et aussi de terminer The Odin project en 2025. 

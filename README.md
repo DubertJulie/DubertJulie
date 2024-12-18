@@ -9,7 +9,7 @@ Je travaille sur des petits projets en `HTML/CSS`, `Javacript` avec la biblioth�
 ⚡Mon objectif est de coder des **trucs utiles** et **beaux** en même temps.
 ☁️ Et aussi de terminer The Odin project en 2025. 
 
-💕 Parlez-moi de *plantes vertes*, de *cuisine* ou de *loisirs créatifs* !
+💕 Parlez-moi de *plantes vertes* (ou roses !), de *cuisine* ou de *loisirs créatifs* !
 
 🐁 Fun fact : j'ai quatre petites souris qui s'appellent Kourtney, Britney, Whitney et Sydney ; mon chat lui, s'appelle Grosminet. 
 
